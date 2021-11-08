@@ -1,0 +1,5 @@
+*.bat
+dir_to_ignore/excluded
+test1.txt
+test2.txt
+excluded_file.txt
